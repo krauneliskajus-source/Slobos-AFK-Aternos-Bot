@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "VieciunuSMP.aternos.me",
+    "port": 55136,
     "version": "",
     "try-creative": false
   },
